@@ -18,7 +18,7 @@ Some parts of the source code were created as part of other publications. If you
 
 ## Data
 
-For transparency and reproducibility concerns, the necessary input Dataset to run the project is published under [![DOI](assets/zenodo.998958.svg)](https://doi.org/10.5281/zenodo.998958). However, till the project paper get published the "Input Dataset" is not open for public, but exclusively available under demand (If for any reason data isn't available, e-mail me at [abdelaziz.merghadi@gmail.com](abdelaziz.merghadi@gmail.com)).
+For transparency and reproducibility concerns, the necessary input Dataset to run the project is published under [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.998958.svg)](https://doi.org/10.5281/zenodo.998958). However, till the project paper get published the "Input Dataset" is not open for public, but exclusively available under demand (If for any reason data isn't available, e-mail me at [abdelaziz.merghadi@gmail.com](abdelaziz.merghadi@gmail.com)).
 
 
 

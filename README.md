@@ -6,7 +6,7 @@
 
 # About
 
-[Landslide Susceptibility Mapping in Mila Basin, Algeria](https://github.com/aminevsaziz/ML_in_LS_Studies) is a repository that contain source files and scripts for "Machine Learning in Landslide Susceptibility Studies: Two Decades and Forward" Project.
+[Landslide Susceptibility Mapping in Mila Basin, Algeria](https://github.com/aminevsaziz/ML_in_LS_Studies) is a repository that contain source files and scripts for "Machine Learning in Landslide Susceptibility Studies" Project.
 
 ## How to Cite and Citing Publications
 
